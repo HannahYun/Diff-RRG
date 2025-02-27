@@ -5,18 +5,13 @@
 
 **1. Prepare the code and the environment**
 
-1. Git clone our repository.
-
-```bash
-git clone https://github.com/wang-zhanyu/R2GenGPT.git
-```
-2. Creat a new conda environment.
+1. Git clone our repository and creat a new conda environment.
 ```bash
 cd Diff-RRG
 conda create -n diffrrg python=3.9 -y
 conda activate diffrrg
 ```
-3. Install the requirements.
+2. Install the requirements.
 ```bash
 pip install -r requirements.txt
 ```

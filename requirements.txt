@@ -1,0 +1,11 @@
+torch
+peft
+tensorboardX
+transformers==4.41.1
+lightning==2.0.5
+Pillow
+numpy
+gradio
+sentencepiece
+scikit-learn
+safetensors==0.4.3

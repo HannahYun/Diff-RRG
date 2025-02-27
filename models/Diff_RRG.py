@@ -1,6 +1,5 @@
 import os
 import json
-os.environ["TOKENIZERS_PARALLELISM"] = "false" # If use Meditron-7B
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
 import torch

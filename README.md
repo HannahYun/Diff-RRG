@@ -18,9 +18,9 @@ pip install -r requirements.txt
 
 **2. Prepare the training dataset**
 
-**Longitudinal-MIMIC**: you can download this dataset from [Here](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray) and download the images from [Official website](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)
+**Longitudinal-MIMIC**: you can download this dataset from [Here](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray) and download the images from [Official website](https://physionet.org/content/mimic-cxr-jpg/2.1.0/)
 
-We prvoide the annotation file for disease progression of Longitudinal-MIMIC dataset. You can download the dataset from [Here]().
+We prvoide the annotation file for disease progression of Longitudinal-MIMIC dataset. You can download the dataset from [Here](https://drive.google.com/file/d/1iWzqLfuQ_0lHE1RYf57KRt6bDwicJOeH/view?usp=sharing).
 
 After downloading the data and the annotation, place them in the ./data folder.
 
@@ -31,7 +31,7 @@ bash scripts/1-1.mimic_train.sh
 ```
 
 ### Testing
-You can download our pretrained Delta checkpoints for [Here]()
+You can download our pretrained Delta checkpoints for [Here](https://drive.google.com/file/d/1jWBIdZDH2950DdInCCKNhGLiR5iIEz2E/view?usp=sharing)
 
 ```bash
 bash scripts/1-2.mimic_test.sh

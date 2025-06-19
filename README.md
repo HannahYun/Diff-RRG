@@ -1,6 +1,6 @@
-# Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation (MICCAI25')
+## Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation (MICCAI25')
 
-## Getting Started
+### Getting Started
 ### Installation
 
 **1. Prepare the code and the environment**

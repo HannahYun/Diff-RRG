@@ -332,7 +332,7 @@ class Diff_RRG(pl.LightningModule):
 
     def _create_progression_prompt(self, progression_labels):
         label_to_text = {
-            -2: "ignored",
+            -2: "N/A",
             -1: "worsening",
              0: "stable",
              1: "improving"

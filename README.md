@@ -8,10 +8,9 @@
   <em>Overview of the proposed Diff-RRG framework.</em>
 </p>
 
-<p align="center">
-  <img src="assets/method_detailed.png" width="90%"><br>
-  <em>Detailed view of the patch difference and progression pipeline (More detailed version).</em>
-</p>
+We additionally provide a more detailed version of the overview for further details and better understanding.
+
+Please refer to [`assets/method_detailed.png`](assets/method_detailed.png).
 
 ### Getting Started
 ### Installation

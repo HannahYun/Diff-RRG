@@ -1,7 +1,7 @@
 ## Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation (MICCAI'25)
 
 <p align="center">
-  <img src="assets/main_figure.png" alt="Overview of Diff-RRG" width="90%">
+  <img src="main_figure.png" alt="Overview of Diff-RRG" width="90%">
 </p>
 
 <p align="center">
